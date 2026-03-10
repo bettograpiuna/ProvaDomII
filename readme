@@ -8,39 +8,44 @@
   <img src="https://via.placeholder.com/800x200/4CAF50/FFFFFF?text=ProvaDomII+-+Formulário+Interativo" alt="Banner ProvaDomII" width="100%">
 </div>
 
-> Um projeto moderno e responsivo para gerenciamento de usuários através de um formulário web elegante. Desenvolvido com HTML, CSS e JavaScript puro, focando em manipulação do DOM e experiência do usuário intuitiva.
+---
+
+> **Um projeto moderno e responsivo para gerenciamento de usuários através de um formulário web elegante. Desenvolvido com HTML, CSS e JavaScript puro, focando em manipulação do DOM e experiência do usuário intuitiva.**
+
+---
 
 ## 📋 Sumário
 
-- [🌟 Demonstração Online](#-demonstração-online)
-- [✨ Funcionalidades](#-funcionalidades)
-- [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
-- [📸 Capturas de Tela](#-capturas-de-tela)
-- [🚀 Como Usar](#-como-usar)
-- [📁 Estrutura do Projeto](#-estrutura-do-projeto)
-- [🎯 Objetivos de Aprendizado](#-objetivos-de-aprendizado)
-- [🤝 Contribuição](#-contribuição)
-- [📄 Licença](#-licença)
+* [🌟 Demonstração Online](#-demonstração-online)
+* [✨ Funcionalidades](#-funcionalidades)
+* [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
+* [📸 Capturas de Tela](#-capturas-de-tela)
+* [🚀 Como Usar](#-como-usar)
+* [📁 Estrutura do Projeto](#-estrutura-do-projeto)
+* [🎯 Objetivos de Aprendizado](#-objetivos-de-aprendizado)
+* [🤝 Contribuição](#-contribuição)
+
+---
 
 ## 🌟 Demonstração Online
 
-👉 **[Visualizar e Testar Online](https://seu-usuario.github.io/ProvaDomII)** *(Substitua 'seu-usuario' pelo seu nome de usuário do GitHub após publicar)*
+O projeto está publicado e pronto para teste. Clique no link abaixo para acessar a versão estável:
 
-Para publicar no GitHub Pages:
-1. Faça upload do projeto para um repositório no GitHub
-2. Vá em **Settings** > **Pages** > **Source**: Deploy from a branch > **Branch**: main
-3. Acesse o link gerado automaticamente
+### [👉 Clique aqui para Abrir o Aplicativo](https://bettograpiuna.github.io/ProvaDomII/)
+
+---
 
 ## ✨ Funcionalidades
 
 | Ícone | Funcionalidade | Descrição |
-|-------|---------------|-----------|
-| 📝 | **Formulário Responsivo** | Interface limpa e adaptável a dispositivos móveis |
-| 👤 | **Adição de Usuários** | Campos para nome e email com validação básica |
-| 🧹 | **Limpeza Instantânea** | Botão para resetar o formulário |
-| 🎨 | **Design Inovador** | Estilo moderno com sombras e transições suaves |
-| 📱 | **Mobile-First** | Otimizado para smartphones e tablets |
-| ⚡ | **Interações Dinâmicas** | Adição e exibição de usuários em tempo real |
+| :--- | :--- | :--- |
+| 📝 | **Formulário Responsivo** | Interface limpa e adaptável a qualquer tamanho de tela. |
+| 👤 | **Adição de Usuários** | Campos para nome e email com manipulação dinâmica do DOM. |
+| 🧹 | **Limpeza Instantânea** | Botão para resetar os campos e limpar a lista. |
+| 🎨 | **Design Inovador** | Estilo moderno utilizando Glassmorphism, sombras e transições. |
+| ⚡ | **Interações em Tempo Real** | Adição de dados sem a necessidade de recarregar a página. |
+
+---
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -50,89 +55,25 @@ Para publicar no GitHub Pages:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </div>
 
-- **HTML5**: Estrutura semântica e acessível
-- **CSS3**: Estilos avançados com Flexbox, Grid e animações
-- **JavaScript (ES6+)**: Manipulação dinâmica do DOM e eventos
+* **HTML5**: Estruturação semântica de alta qualidade.
+* **CSS3**: Estilização avançada com Flexbox e animações fluidas.
+* **JavaScript (ES6+)**: Lógica interativa e controle total dos eventos do DOM.
+
+---
 
 ## 📸 Capturas de Tela
 
 <div align="center">
-  <img src="https://via.placeholder.com/400x300/2196F3/FFFFFF?text=Formulário+Principal" alt="Formulário Principal" width="45%">
-  <img src="https://via.placeholder.com/400x300/4CAF50/FFFFFF?text=Usuários+Adicionados" alt="Usuários Adicionados" width="45%">
-</div>
-
-*Para adicionar capturas reais, tire screenshots da aplicação e substitua os placeholders acima.*
-
-## 📋 Pré-requisitos
-
-- ✅ Navegador web moderno (Chrome, Firefox, Safari, Edge)
-- 🌐 Conexão com internet (para fontes externas, se aplicável)
-
-## 🚀 Como Usar
-
-### Passo 1: Clone o repositório
-```bash
-git clone https://github.com/seu-usuario/ProvaDomII.git
-cd ProvaDomII
-```
-
-### Passo 2: Abra no navegador
-- **Opção A**: Clique duplo no `index.html`
-- **Opção B**: Use um servidor local:
-  ```bash
-  python -m http.server 8000
-  ```
-  Acesse: `http://localhost:8000`
-
-### Passo 3: Interaja com a aplicação
-- 📝 Preencha os campos de nome e email
-- ➕ Clique em **"Enviar"** para adicionar o usuário
-- 🧹 Use **"Limpar"** para resetar o formulário
-- 👀 Veja os usuários adicionados em cards dinâmicos
-
-## 📁 Estrutura do Projeto
-
-```
-ProvaDomII/
-├── 📄 index.html      # Estrutura da página principal
-├── 🎨 style.css       # Estilos visuais modernos
-├── ⚙️ script.js       # Lógica JavaScript interativa
-└── 📖 readme          # Documentação do projeto
-```
-
-## 🎯 Objetivos de Aprendizado
-
-Este projeto demonstra conceitos avançados de desenvolvimento web:
-
-- 🔄 **Manipulação do DOM**: Criação e remoção dinâmica de elementos
-- ✅ **Validação de Formulários**: Verificação básica de entrada do usuário
-- 📱 **Design Responsivo**: Uso de CSS Flexbox para layouts adaptáveis
-- 🎭 **Interações do Usuário**: Eventos e feedback visual
-- 🧹 **Boas Práticas**: Código limpo e organizado em JavaScript moderno
-
-## 🤝 Contribuição
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Contribuições-Bem--vindas-4CAF50?style=for-the-badge" alt="Contribuições">
-</div>
-
-Contribuições são muito bem-vindas! 💪
-
-- 🐛 **Reportar bugs**: Abra uma issue descrevendo o problema
-- 💡 **Sugestões**: Compartilhe ideias para melhorias
-- 🔧 **Pull requests**: Envie suas modificações
-- 📖 **Documentação**: Ajude a melhorar este README
-
-## 📄 Licença
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge" alt="MIT License">
+  <img src="https://via.placeholder.com/400x250/2196F3/FFFFFF?text=Interface+Principal" alt="Formulário Principal" width="45%">
+  <img src="https://via.placeholder.com/400x250/4CAF50/FFFFFF?text=Lista+de+Usuários" alt="Usuários Adicionados" width="45%">
 </div>
 
 ---
 
-<div align="center">
-  <h3>⭐ Dê uma estrela se gostou do projeto! ⭐</h3>
+## 🚀 Como Usar
 
-  <img src="https://img.shields.io/github/stars/seu-usuario/ProvaDomII?style=social" alt="Stars">
-</div>
+Para rodar este projeto localmente, siga os passos abaixo:
+
+1. **Clone este repositório**
+   ```bash
+   git clone [https://github.com/bettograpiuna/ProvaDomII.git](https://github.com/bettograpiuna/ProvaDomII.git)
