@@ -23,15 +23,14 @@
 * [🚀 Como Usar](#-como-usar)
 * [📁 Estrutura do Projeto](#-estrutura-do-projeto)
 * [🎯 Objetivos de Aprendizado](#-objetivos-de-aprendizado)
-* [🤝 Contribuição](#-contribuição)
 
 ---
 
 ## 🌟 Demonstração Online
 
-O projeto está publicado e pronto para teste. Clique no link abaixo para acessar a versão estável:
+O projeto está hospedado no GitHub Pages. Você pode testar todas as funcionalidades clicando no link abaixo:
 
-### [👉 Clique aqui para Abrir o Aplicativo](https://bettograpiuna.github.io/ProvaDomII/)
+### [👉 CLIQUE AQUI PARA ABRIR O APLICATIVO](https://bettograpiuna.github.io/ProvaDomII/)
 
 ---
 
@@ -39,11 +38,11 @@ O projeto está publicado e pronto para teste. Clique no link abaixo para acessa
 
 | Ícone | Funcionalidade | Descrição |
 | :--- | :--- | :--- |
-| 📝 | **Formulário Responsivo** | Interface limpa e adaptável a qualquer tamanho de tela. |
-| 👤 | **Adição de Usuários** | Campos para nome e email com manipulação dinâmica do DOM. |
-| 🧹 | **Limpeza Instantânea** | Botão para resetar os campos e limpar a lista. |
-| 🎨 | **Design Inovador** | Estilo moderno utilizando Glassmorphism, sombras e transições. |
-| ⚡ | **Interações em Tempo Real** | Adição de dados sem a necessidade de recarregar a página. |
+| 📝 | **Formulário Responsivo** | Interface limpa e adaptável a qualquer tamanho de tela (Mobile & Desktop). |
+| 👤 | **Adição Dinâmica** | Adiciona usuários à lista instantaneamente manipulando o DOM. |
+| 🧹 | **Limpeza de Dados** | Botão para resetar os campos de entrada e limpar a visualização. |
+| 🎨 | **Design Moderno** | Visual com bordas arredondadas, sombras suaves e tipografia clara. |
+| ⚡ | **Single Page Interaction** | Adição de dados sem recarregamento de página (UX focada). |
 
 ---
 
@@ -54,10 +53,6 @@ O projeto está publicado e pronto para teste. Clique no link abaixo para acessa
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </div>
-
-* **HTML5**: Estruturação semântica de alta qualidade.
-* **CSS3**: Estilização avançada com Flexbox e animações fluidas.
-* **JavaScript (ES6+)**: Lógica interativa e controle total dos eventos do DOM.
 
 ---
 
@@ -72,8 +67,8 @@ O projeto está publicado e pronto para teste. Clique no link abaixo para acessa
 
 ## 🚀 Como Usar
 
-Para rodar este projeto localmente, siga os passos abaixo:
+Para rodar este projeto em sua máquina local:
 
-1. **Clone este repositório**
+1. **Clone o repositório**
    ```bash
    git clone [https://github.com/bettograpiuna/ProvaDomII.git](https://github.com/bettograpiuna/ProvaDomII.git)
