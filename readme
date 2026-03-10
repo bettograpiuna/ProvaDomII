@@ -1,0 +1,83 @@
+# 🚀 ProvaDomII - Formulário Interativo de Usuários
+
+Um projeto moderno e responsivo para gerenciamento de usuários através de um formulário web elegante. Desenvolvido com HTML, CSS e JavaScript puro, focando em manipulação do DOM e experiência do usuário intuitiva.
+
+![Badge](https://img.shields.io/badge/Status-Concluído-brightgreen) ![Badge](https://img.shields.io/badge/Linguagem-JavaScript-blue) ![Badge](https://img.shields.io/badge/Estilo-CSS3-orange)
+
+## 🌟 Demonstração Online
+
+👉 **[Visualizar e Testar Online](https://seu-usuario.github.io/ProvaDomII)** *(Substitua 'seu-usuario' pelo seu nome de usuário do GitHub após publicar)*
+
+Para publicar no GitHub Pages:
+1. Faça upload do projeto para um repositório no GitHub
+2. Vá em Settings > Pages > Source: Deploy from a branch > Branch: main
+3. Acesse o link gerado
+
+## ✨ Funcionalidades
+
+- 📝 **Formulário Responsivo**: Interface limpa e adaptável a dispositivos móveis
+- 👤 **Adição de Usuários**: Campos para nome e email com validação básica
+- 🧹 **Limpeza Instantânea**: Botão para resetar o formulário
+- 🎨 **Design Inovador**: Estilo moderno com sombras e transições suaves
+- 📱 **Mobile-First**: Otimizado para smartphones e tablets
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5**: Estrutura semântica
+- **CSS3**: Estilos avançados com Flexbox e animações
+- **JavaScript (ES6+)**: Manipulação dinâmica do DOM
+
+## 📋 Pré-requisitos
+
+- Navegador web moderno (Chrome, Firefox, Safari, Edge)
+- Conexão com internet (para fontes externas, se aplicável)
+
+## 🚀 Como Usar
+
+1. **Clone o repositório**:
+   ```bash
+   git clone https://github.com/seu-usuario/ProvaDomII.git
+   cd ProvaDomII
+   ```
+
+2. **Abra no navegador**:
+   - Clique duplo no `index.html` ou
+   - Use um servidor local: `python -m http.server 8000` e acesse `http://localhost:8000`
+
+3. **Interaja**:
+   - Preencha nome e email
+   - Clique em "Enviar" para adicionar usuário
+   - Use "Limpar" para resetar
+
+## 📁 Estrutura do Projeto
+
+```
+ProvaDomII/
+├── index.html      # Estrutura da página
+├── style.css       # Estilos visuais
+├── script.js       # Lógica JavaScript
+└── readme          # Este arquivo
+```
+
+## 🎯 Objetivos de Aprendizado
+
+Este projeto demonstra:
+- Manipulação avançada do DOM
+- Validação de formulários
+- Design responsivo com CSS Grid/Flexbox
+- Boas práticas de JavaScript moderno
+
+## 🤝 Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para:
+- Reportar bugs
+- Sugerir melhorias
+- Enviar pull requests
+
+## 📄 Licença
+
+Este projeto é de código aberto.
+
+---
+
+⭐ **Dê uma estrela se gostou do projeto!** ⭐
